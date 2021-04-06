@@ -25,3 +25,4 @@ $RECYCLE.BIN/
 
 # temporales de office
 ~$*.xlsx
+~$*.docx
